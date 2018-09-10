@@ -1,0 +1,51 @@
+INFO:root:execution starts
+INFO:root:program execution over...
+INFO:root:execution starts
+ERROR:root:division by zero
+Traceback (most recent call last):
+  File "F:/pythonpro/exceptionhandling(withlogging).py", line 9, in <module>
+    print(x/y)
+ZeroDivisionError: division by zero
+INFO:root:program execution over...
+INFO:root:execution starts
+INFO:root:program execution over...
+INFO:root:execution starts
+ERROR:root:invalid literal for int() with base 10: 'h'
+Traceback (most recent call last):
+  File "F:/pythonpro/exceptionhandling(withlogging).py", line 7, in <module>
+    y=int(input("enter the second number="))
+ValueError: invalid literal for int() with base 10: 'h'
+INFO:root:program execution over...
+INFO:root:execution starts
+INFO:root:execution over....
+INFO:root:execution starts
+ERROR:root:division by zero
+Traceback (most recent call last):
+  File "F:/pythonpro/exceptionhandling(withlogging).py", line 9, in <module>
+    print(x/y)
+ZeroDivisionError: division by zero
+INFO:root:execution over....
+INFO:root:execution starts
+ERROR:root:invalid literal for int() with base 10: 'kj'
+Traceback (most recent call last):
+  File "F:/pythonpro/exceptionhandling(withlogging).py", line 8, in <module>
+    y=int(input("enter second number :"))
+ValueError: invalid literal for int() with base 10: 'kj'
+INFO:root:execution over....
+INFO:root:execution starts
+ERROR:root:invalid literal for int() with base 10: 's'
+Traceback (most recent call last):
+  File "F:/pythonpro/exceptionhandling(withlogging).py", line 7, in <module>
+    x=int(input("enter first number :"))
+ValueError: invalid literal for int() with base 10: 's'
+INFO:root:execution over....
+INFO:root:execution starts
+INFO:root:execution starts
+ERROR:root:invalid literal for int() with base 10: 'll'
+Traceback (most recent call last):
+  File "F:/pythonpro/exceptionhandling(withlogging).py", line 8, in <module>
+    y=int(input("enter second number :"))
+ValueError: invalid literal for int() with base 10: 'll'
+INFO:root:execution over....
+INFO:root:execution starts
+INFO:root:execution starts

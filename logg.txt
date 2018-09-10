@@ -1,0 +1,11 @@
+DEBUG:root:debug message
+DEBUG:root:debug message
+DEBUG:root:debug message
+DEBUG:root:debug message
+INFO:root:info message
+DEBUG:root:debug message
+INFO:root:info message
+DEBUG:root:debug message
+INFO:root:info message
+DEBUG:root:debug message
+DEBUG:root:debug message

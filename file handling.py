@@ -1,0 +1,5 @@
+f=open("F:/pythonpro/hello.txt",'r')
+print(f.readline())
+print(f.readline())
+print(f.read(6))
+f.close()

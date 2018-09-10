@@ -1,0 +1,6 @@
+f=open("f:/wed.jpg",'rb')
+t=open("f:/pythonpro/wedd.jpg",'wb')
+image=f.read()
+t.write(image)
+f.close()
+t.close()

@@ -1,0 +1,5 @@
+f=(open('F:/pythonpro/add.txt','r'))
+#print(f.read())
+print()
+print(f.readline(3))
+f.close()

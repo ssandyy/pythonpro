@@ -1,0 +1,11 @@
+f=open("f:/pythonpro/write.txt",'r')
+print(f.tell()) # 'tell' is use to tell the position of pointer
+print(f.read(2))
+print(f.tell())
+print(f.seek(5))
+print(f.tell())
+print(f.read())
+print(f.seek(0))
+print(f.read(3))
+print(f.tell())
+f.close()
